@@ -9,7 +9,7 @@ At the moment I'm learning how to do _edge computing_ using **TensorFlow**
 
 ### Contact
 Here are some other ways we can be in contact:
-- [My CV](www.ivillajuana.com/cv)
+- [My CV](https://www.ivillajuana.com/cv)
 <!-- 
 
 - Who am I?
